@@ -1,2 +1,2 @@
 # [dtor](http://dtor.org/) 
-Copyright 2020202020202
+Copyright 2020202020202 ...
