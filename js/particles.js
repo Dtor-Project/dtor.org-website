@@ -20,7 +20,7 @@ particlesJS("particles-js", {
         "nb_sides": 5
       },
       "image": {
-        "src": "img/dealwithit_doge.png",
+        "src": "img/favicon.ico",
         "width": 100,
         "height": 100
       }
